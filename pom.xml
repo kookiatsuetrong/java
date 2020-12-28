@@ -1,0 +1,14 @@
+<project>
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>java</groupId>
+	<artifactId>project</artifactId>
+	<version>demo</version>
+	<packaging>jar</packaging>
+
+	<name>java-project</name>
+	<properties>
+		<maven.compiler.source>15</maven.compiler.source>
+		<maven.compiler.target>15</maven.compiler.target>
+	</properties>
+</project>
