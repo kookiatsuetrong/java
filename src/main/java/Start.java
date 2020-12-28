@@ -1,6 +1,6 @@
 import javax.persistence.*;
 class Start {
-	public static void main(String[] z) {
+	public static void main(String[] data) {
 		Branch b = new Branch();
 		b.name = "Siam Square";
 		b.area = 75.8;
